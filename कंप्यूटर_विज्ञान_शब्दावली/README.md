@@ -22,4 +22,4 @@
 ###
 स्रोत
 
-[Gloassry of Computer Science (ENG-HIN)](http://csttpublication.mhrd.gov.in/ebook/Glossary_of_Computer_Science_(ENG-HIN)/html5forpc.html?page=0)
+[कंप्यूटर विज्ञान शब्दावली](http://csttpublication.mhrd.gov.in/ebook/Glossary_of_Computer_Science_(ENG-HIN)/html5forpc.html?page=0)
